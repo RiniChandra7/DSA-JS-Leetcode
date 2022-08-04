@@ -34,8 +34,6 @@ MyCalendar.prototype.book = function(start, end) {
     }
     
     return false;
-    
-    return false;
 };
 
 /** 
